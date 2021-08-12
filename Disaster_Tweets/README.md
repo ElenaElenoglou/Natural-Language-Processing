@@ -41,9 +41,16 @@ For this project, we'll work with a dataset that contains tweets  in order to ca
 
 - Validation Accuracy: 85.80%
 
-  
+<p align="center">
+<img src="https://github.com/ElenaElenoglou/Natural-Language-Processing/blob/main/Disaster_Tweets/Images/Accuracy.png" />
+</p>
+
 
 ### Visualization of Model Loss:
 
 - Training Set Loss: 0.3243
 - Validation Loss: 0.3595
+
+<p align="center">
+<img src="https://github.com/ElenaElenoglou/Natural-Language-Processing/blob/main/Disaster_Tweets/Images/Loss.png" /> 
+</p>
